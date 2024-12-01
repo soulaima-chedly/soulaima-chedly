@@ -15,15 +15,4 @@
 
 </br>
 
-![skills](https://skillicons.dev/icons?i=html,css,js,ts,redux,materialui,tailwind,nodejs,express,prisma,mysql,postgres,linux,bash,git,vscode&theme=dark&perline=15)
-
-</br>
-
-## 🔧 Stats
-
-<p align="center" >  
-  <a href="https://github.com/anuraghazra/github-readme-stats" target="_blank" rel="noopener noreferrer">
-<img  src="https://github-readme-stats.vercel.app/api?username=soulaima-chedly&&show_icons=true&theme=radical&locale=en&count_private=true&hide=stars,prs" style="box-shadow: 0 0 20px 0 #d83b7d;"/>
-  </a>
-  </p>
-</br>
+![skills](https://skillicons.dev/icons?i=html,css,js,ts,angular,redux,materialui,tailwind,nodejs,express,prisma,mysql,postgres,linux,bash,git,vscode&theme=dark&perline=15)
