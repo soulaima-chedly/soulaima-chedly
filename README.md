@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Hichem Fantar</h1>
+<h1 align="center">Hi 👋, I'm Soulaima Chedly</h1>
 <h3 align="center">A passionate fullstack developer from Tunisia</h3>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/hichemfantar)
