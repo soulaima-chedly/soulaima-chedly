@@ -15,4 +15,4 @@
 
 </br>
 
-![skills](https://skillicons.dev/icons?i=html,css,js,ts,angular,redux,materialui,tailwind,nodejs,express,prisma,mysql,postgres,linux,bash,git,vscode&theme=dark&perline=15)
+![skills](https://skillicons.dev/icons?i=html,css,js,ts,angular,redux,materialui,tailwind,nodejs,express,mysql,linux,bash,git,vscode&theme=dark&perline=15)
