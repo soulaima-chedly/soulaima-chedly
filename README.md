@@ -1,13 +1,13 @@
 <h1 align="center">Hi 👋, I'm Soulaima Chedly</h1>
 <h3 align="center">A passionate fullstack developer from Tunisia</h3>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/hichemfantar)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/soulaima-chedly)
 
-- 👨‍💻 All of my projects are available at [https://github.com/hichemfantar?tab=repositories](https://github.com/hichemfantar?tab=repositories)
+- 👨‍💻 All of my projects are available at [https://github.com/soulaima-chedly?tab=repositories](https://github.com/soulaima-chedly?tab=repositories)
 
 - 💬 Ask me about **react, node and docker**
 
-- 📫 How to reach me **<hichem.fantar@outlook.com>**
+- 📫 How to reach me **<soulaima.ben.chedly@gmail.com>**
 
 </br>
 
@@ -28,19 +28,7 @@
 
 <p align="center" >  
   <a href="https://github.com/anuraghazra/github-readme-stats" target="_blank" rel="noopener noreferrer">
-<img  src="https://github-readme-stats.vercel.app/api?username=hichemfantar&&show_icons=true&theme=radical&locale=en&count_private=true&hide=stars,prs" style="box-shadow: 0 0 20px 0 #d83b7d;"/>
+<img  src="https://github-readme-stats.vercel.app/api?username=soulaima-chedly&&show_icons=true&theme=radical&locale=en&count_private=true&hide=stars,prs" style="box-shadow: 0 0 20px 0 #d83b7d;"/>
   </a>
   </p>
 </br>
-
-<!-- <div align="center">
-
-[![Watch the video](https://i.pinimg.com/originals/d1/53/f0/d153f06b1496b168f2386b4e8290497d.gif)](https://youtu.be/NoAzpa1x7jU)
-
-</div> -->
-
-<div align="center">
-
-[![Watch the video](https://i.pinimg.com/originals/d1/53/f0/d153f06b1496b168f2386b4e8290497d.gif)](https://youtu.be/skiNUaOS3mg)
-
-</div>
